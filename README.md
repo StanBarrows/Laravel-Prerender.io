@@ -32,7 +32,7 @@ using Prerender.io since the response always goes through your server.
 
 | Package |     PHP     | Laravel | Prerender.io access |
 |:-------:|:-----------:|:-------:|:-------------------:|
-|  main   | ^8.2 - ^8.3 |  11.x   |          ✅          |
+|   v11   | ^8.2 - ^8.3 |  11.x   |          ✅          |
 | v3.3.0  | ^8.1 - ^8.3 |  10.x   |          ✅          |
 | v3.2.0  | ^8.0 - ^8.2 |   9.x   |          ✅          |
 | v3.1.1  | ^7.3 - ^8.1 |   8.x   |          ✅          |
